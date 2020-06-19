@@ -3,11 +3,11 @@
 /*
 The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
 
-Find the sum of all the primes below two million.
+Find the sum of all the primes below two million..
 */
 
 
-function asalFactors (number){
+function asalFactors (number){ 
     var factors= [],
         bölen= 2 
    
@@ -38,7 +38,7 @@ let sum = getAllAsallar.reduce((x,y) => x + y) - 2
 console.log(sum)
 
 Cevap : 6857
-s 
+
 
 
 
