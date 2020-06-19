@@ -38,7 +38,7 @@ let sum = getAllAsallar.reduce((x,y) => x + y) - 2
 console.log(sum)
 
 Cevap : 6857 
-------------------------------------------------------------------------------------------------------------------
+
 
 /* 
 Soru2
@@ -49,7 +49,7 @@ and the sum of the digits in the number 10! is 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27.
 
 Find the sum of the digits in the number 100!
 */
-import java.math.BigInteger;
+
 public class ProjectEuler20 {
     public static void;
     main(String, [], args) {
@@ -75,6 +75,5 @@ public class ProjectEuler20 {
 
 Cevap : 648
 
-/*  Soru 3
 
 
