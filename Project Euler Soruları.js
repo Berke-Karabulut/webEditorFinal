@@ -37,7 +37,7 @@ while (i<2000000){
 let sum = getAllAsallar.reduce((x,y) => x + y) - 2
 console.log(sum)
 
-Cevap : 6857
+
 
 
 /* Soru 2 
@@ -73,7 +73,7 @@ public class ProjectEuler20 {
     }
 }
 
-Cevap : 648
+
 
 /* Soru3
 Surprisingly there are only three numbers that can be written as the sum of fourth powers of their digits:
@@ -109,7 +109,7 @@ public class P30 {
     }
 }
 
-CEVAP : 443839
+
 
 
 
